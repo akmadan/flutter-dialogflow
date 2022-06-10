@@ -1,16 +1,11 @@
-# flutter_dialogflow
+# Readme
+1. Go to https://dialogflow.cloud.google.com/ and signin with a Google Account. 
+2. Create an agent. 
+3. You will get two default intents, for "greeting" and "did not understand".
+4. Add your own intents. 
+5. Now go to settings and find the project id. 
+6. Find the same project in cloud console. 
+7. Add a service account and create a json key and download it.
+8. Put this key in assets folder of Flutter Project. 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# That's it!
